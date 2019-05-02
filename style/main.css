@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+    background-color:black;
+}
+button{
+    height: 94px;
+    width: 94px;      
+    color: rgb(0, 0, 0);
+    background-color: rgb(227, 21, 235);
+    margin-right: 10px;
+    font-family: 'Merriweather Sans', sans-serif; 
+    font-size:0.55em;
+    text-align: center;
+    text-decoration: none;
+}
+#bank{
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+
+}
+#game{  
+    color: rgb(21, 172, 21); 
+    font-size: 5em;
+    font-family: "Times New Roman", Times, serif;
+    height: 400px;
+    width: 400px;
+    margin-bottom: 5px; 
+    background-image: url('../img/tenor.gif');
+    background-size: cover;
+    background-position: center;
+
+}
+#game:focus{
+    outline: 0px;
+    text-decoration: none;
+}
+
+/*
+    font-family: "Times New Roman", Times, serif;   
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Merriweather Sans', sans-serif;
+
+#fffff
+#45f0df
+#2334d  
+
+  
+*/
