@@ -1,1 +1,1 @@
-"# ClickerGame" 
+Meningen med detta projekt var att vi skulle göra en redesign av en webbsida med hjälp av css och html eller en clicker med hjälp av JAVAscript, jag först ville göra en resign av den berömda webbsidan som kallas WikiHow, jag gjorde planeringar och skisser om hur jag ville att min resign skulle se ut. Men det blev tråkigt och jag hade nya idéer för en clicker, på grund av att jag inte har mycket efarenhet inom javascript så kopierade jag 
